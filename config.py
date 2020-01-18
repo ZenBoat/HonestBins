@@ -4,7 +4,6 @@ import os
 # You can sign up here: https://portal.azure.com/?WT.mc_id=twitchcaptions-github-jabenn#create/Microsoft.CognitiveServicesSpeechServices
 # There is a free tier you can use
 api_key = os.environ["AZURE_API_KEY"]
-print(api_key)
 service_region = "westeurope"
 
 # Put your device ID here, or leave this blank to use the default microphone.
