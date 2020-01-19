@@ -11,10 +11,10 @@ facts = [
 ]
 
 questions = [
-    "On average, each person in the UK throws away their own body weight in rubbish every seven weeks.",
-    "The average UKfamily throws away 6 trees worth of paper in their household bin a year.",
-    "Plastic bags should go into the recycling bin.",
-    "The current president of the united states is making all his effort to protect the environment"
+    "A question for you. On average, each person in the UK throws away their own body weight in rubbish every seven weeks.",
+    "A question for you. The average UKfamily throws away 6 trees worth of paper in their household bin a year.",
+    "A question for you. Plastic bags should go into the recycling bin.",
+    "A question for you. The current president of the united states is making all his effort to protect the environment"
 ]
 
 answers = [
